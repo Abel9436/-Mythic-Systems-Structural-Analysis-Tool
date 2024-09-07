@@ -1,0 +1,42 @@
+ERROR:root:Traceback (most recent call last):
+  File "ifcopenshell\entity_instance.py", line 207, in __getattr__
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'ifcopenshell.express.rules'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "gui.py", line 145, in on_drop
+  File "calculate.py", line 92, in calculate_beam_column_weight
+  File "calculate.py", line 76, in get_weight_value
+  File "ifcopenshell\entity_instance.py", line 215, in __getattr__
+Exception: Couldn't find express file 'ifc2x3.exp' in the current folder: 'C:\Users\abelb\Downloads\trial\IFC\src\dist'.
+
+ERROR:root:Traceback (most recent call last):
+  File "ifcopenshell\entity_instance.py", line 207, in __getattr__
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'ifcopenshell.express.rules.IFC2X3'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "gui.py", line 145, in on_drop
+  File "calculate.py", line 92, in calculate_beam_column_weight
+  File "calculate.py", line 76, in get_weight_value
+  File "ifcopenshell\entity_instance.py", line 224, in __getattr__
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'IFC2X3'
+
