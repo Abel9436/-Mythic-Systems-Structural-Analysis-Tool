@@ -8,3 +8,118 @@ ERROR:root:Traceback (most recent call last):
     roof_uplift_entry = values["roof_uplift_entry"]
 KeyError: 'roof_uplift_entry'
 
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 54, in on_drop
+    print(f"Event data: {event.data}")
+AttributeError: 'str' object has no attribute 'data'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\abelb\Downloads\trial\IFC\src\gui.py", line 73, in on_drop
+    roof_uplift_entry = values["roof_uplift_entry"]
+KeyError: 'roof_uplift_entry'
+

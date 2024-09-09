@@ -51,9 +51,9 @@ def on_drop(event, values):
         print("Drop event triggered!")
         
         # Print the event data
-        print(f"Event data: {event.data}")
+        print(f"Event data: {event}")
         
-        ifc_file_path = event.data.strip('{}')  # Remove curly braces if present
+        ifc_file_path = event.strip('{}')  # Remove curly braces if present
         print(f"Processed file path: {ifc_file_path}")
         # print(event, type(event))
         # for d in dir(event):

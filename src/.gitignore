@@ -4,7 +4,7 @@ __pycache__/
 bin/
 
 develop-eggs/
-dist/
+
 eggs/
 lib/
 lib64/
